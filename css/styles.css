@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #ff0000
+  color: #ff0000;
 }
 h1 {
   font-size: 100px;
@@ -152,7 +152,6 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
-  color: #ff0000;
 }
 
 
