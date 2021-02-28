@@ -30,10 +30,11 @@ img {
   width: 300px;
 }
 a {
-  color: #0000ff;
+  color: #ffffff;
 }
 a:hover {
   text-decoration: none;
+  color: #ff0000
 }
 h1 {
   font-size: 100px;
